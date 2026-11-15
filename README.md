@@ -1,2 +1,4 @@
 # talking-Santa-for-upside-down-cake
-I finally got the original 2011 Talking Santa working perfectly on Android 14! Who remembers triggering the giant gold bars animation?
+I finally got the original 2011 Talking Santa working perfectly on Android 14! Who remembers triggering the giant gold bars animation? It took a lot of trial and error to get this classic running smoothly on a modern device without it crashing immediately. Right now, I'm working out a small issue with the screen recording feature so I can capture some clean gameplay.
+Check out the technical details in my comment below if you want to know how I bypassed the crashing!I had to completely rip out the old ad server connections and strip the network permissions just to stop the app from instantly crashing on startup lol. Feeling exactly like Ben working out a glitch in his garage right now.
+Let me know if any of you want a quick setup guide or if you want me to test out any of the other animations!
